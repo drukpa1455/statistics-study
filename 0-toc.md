@@ -61,3 +61,9 @@
    - Weighted means and proportions
    - Ranks and percentiles
    - Simulating data from different distributions
+
+10. Additional Topics
+   - Non-Parametric Tests for Comparing Two Populations
+   - Mood's Median Test
+   - Graphical Techniques for Comparing Groups
+   - Graphical Techniques for Small Sample Sizes
